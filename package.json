@@ -1,8 +1,11 @@
 {
+  "type":"module",
   "dependencies": {
     "@google-cloud/aiplatform": "^3.23.0",
+    "@langchain/google-genai": "^0.0.17",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "langchain": "^0.2.5"
   }
 }
